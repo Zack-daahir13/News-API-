@@ -19,7 +19,7 @@ Welcome to **News Web Application**, a modern **React.js** frontend application 
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/zackdaahir/news-webapp.git
+git clone https://github.com/Zack-daahir13/News-API-.git
 cd news-webapp
 ```
 ### 2️⃣ Install Dependencies
